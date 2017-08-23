@@ -1,0 +1,15 @@
+return 1 ;
+return 1 ;
+return results . toArray ( arg ) ;
+throw new IOException ( arg ) ;
+return 30 ;
+FileSystem fs = FileSystem . getFSofPath ( arg ) ;
+cluster . shutdown ( arg ) ;
+return PBHelper . convert ( arg ) ;
+return PBHelper . convert ( arg ) ;
+assertEquals ( arg ) ;
+assertEquals ( arg ) ;
+throw new UnsupportedOperationException ( arg ) ;
+final INodeFileUnderConstruction pendingFile = ( INodeFileUnderConstruction ) inodes [ inodes . length - 1 ] ;
+final INodeFileUnderConstruction pendingFile = ( INodeFileUnderConstruction ) inodes [ inodes . length - 1 ] ;
+return replicaInfo ;

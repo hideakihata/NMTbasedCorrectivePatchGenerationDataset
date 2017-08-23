@@ -1,0 +1,6 @@
+String componentName = component != null ? component . getName ( arg ) : null ;
+expect ( arg ) . andReturn ( arg ) ;
+expect ( arg ) . andReturn ( arg ) ;
+RequestStatusResponse resp = controller . updateHostComponents ( arg ) ;
+resp = controller . updateHostComponents ( arg ) ;
+resp = controller . updateHostComponents ( arg ) ;

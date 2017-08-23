@@ -1,0 +1,16 @@
+final ResourceReference resourceReference = getImageResourceReference ( arg ) ;
+return realName ;
+localizedImageResources . clear ( arg ) ;
+localizedImageResources . add ( arg ) ;
+localizedImageResources . clear ( arg ) ;
+localizedImageResources . add ( arg ) ;
+this . sizes = new ArrayList <> ( arg ) ;
+state = InternalState . DETACHED ;
+state = InternalState . ATTACHED ;
+state = InternalState . ATTACHED ;
+resource = new CssPackageResource ( arg ) ;
+resource = new JavaScriptPackageResource ( arg ) ;
+resource = new PackageResource ( arg ) ;
+resource = new CssPackageResource ( arg ) ;
+resource = new JavaScriptPackageResource ( arg ) ;
+resource = new PackageResource ( arg ) ;

@@ -1,0 +1,7 @@
+final IResource resource = getImageResource ( arg ) ;
+localizedImageResource . setResource ( arg ) ;
+localizedImageResource . setResourceReference ( arg ) ;
+localizedImageResource . setResource ( arg ) ;
+localizedImageResource . setResourceReference ( arg ) ;
+localizedImageResource . setResourceReference ( arg ) ;
+return getRequestCycle ( arg ) . find ( arg ) != null ;

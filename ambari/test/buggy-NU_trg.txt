@@ -1,0 +1,6 @@
+String componentName = component . getName ( arg ) ;
+expect ( arg ) . andReturn ( arg ) . atLeastOnce ( arg ) ;
+expect ( arg ) . andReturn ( arg ) . atLeastOnce ( arg ) ;
+RequestStatusResponse resp = updateHostComponents ( arg ) ;
+resp = updateHostComponents ( arg ) ;
+resp = updateHostComponents ( arg ) ;

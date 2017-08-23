@@ -1,0 +1,16 @@
+final ResourceReference resourceReference = this . getImageResourceReference ( arg ) ;
+return this . realName ;
+this . localizedImageResources . clear ( arg ) ;
+this . localizedImageResources . add ( arg ) ;
+this . localizedImageResources . clear ( arg ) ;
+this . localizedImageResources . add ( arg ) ;
+this . sizes = new ArrayList < String > ( arg ) ;
+attached = AttachingState . DETACHED ;
+attached = AttachingState . ATTACHED ;
+attached = AttachingState . ATTACHED ;
+resource = new CssPackageResource ( arg ) . readBuffered ( arg ) ;
+resource = new JavaScriptPackageResource ( arg ) . readBuffered ( arg ) ;
+resource = new PackageResource ( arg ) . readBuffered ( arg ) ;
+resource = new CssPackageResource ( arg ) . readBuffered ( arg ) ;
+resource = new JavaScriptPackageResource ( arg ) . readBuffered ( arg ) ;
+resource = new PackageResource ( arg ) . readBuffered ( arg ) ;

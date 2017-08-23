@@ -1,0 +1,13 @@
+Map < String , String > attr = new LinkedHashMap <> ( arg ) ;
+boolean close = result . isFailed ( arg ) || responseHeaders . contains ( arg ) || receiver . isShutdown ( arg ) ;
+boolean close = result . isFailed ( arg ) || responseHeaders . contains ( arg ) || receiver . isShutdown ( arg ) ;
+contentCallback . iterate ( arg ) ;
+return asPath ( arg ) ;
+finalClose . compareAndSet ( arg ) ;
+control ( arg ) ;
+throw new UsageException ( arg ) ;
+if ( hadRemaining ) latch . countDown ( arg ) ;
+proxyResponse . abort ( arg ) ;
+return _fields [ _last = i ] ;
+for ( AsyncChunk chunk : chunks ) chunk . callback . failed ( arg ) ;
+_acceptors [ _id ] = thread ;
