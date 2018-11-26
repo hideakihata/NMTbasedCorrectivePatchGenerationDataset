@@ -1,5 +1,5 @@
-# NMTbasedFixGenerationDataset
+# NMT-based Corrective Patch Generation Dataset
 
 Dataset for the study
 
-Learning to Generate Fixes using Neural Machine Translation
+Learning to Generate Corrective Patches using Neural Machine Translation
